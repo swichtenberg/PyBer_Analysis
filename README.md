@@ -16,7 +16,7 @@ As discussed above, the total fares in urban cities far exceeded those of suburb
 
 #### Figure 1. Total Fare by City Type
 
-![TotalFareByCityType](https://user-images.githubusercontent.com/96216947/151403073-482bf2da-04d5-4ad8-a773-b74381acefe5.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/96216947/151406869-a991ddf9-c6b8-48e2-bec5-e7b011040521.png)
 
 ## Summary
 From the data presented above, it is clear there are some disparities in ride access and ride costs for urban, suburban, and rural cities. Opportunities to reduce the disparities include:
